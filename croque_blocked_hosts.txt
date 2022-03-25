@@ -1426,3 +1426,5 @@
 127.0.0.1 www.omaze.com
 127.0.0.1 74.114.154.22
 127.0.0.1 ads.tiktok.com
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 test-ads.tiktok.com
