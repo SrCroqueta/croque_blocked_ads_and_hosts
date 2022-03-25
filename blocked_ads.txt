@@ -11,4 +11,10 @@
 ||analyticsengine.s3.amazonaws.com^
 
 ! Sentry
-||browser.sentry-cdn.com^
+!||sentry-cdn.com^
+
+! Pinterest Ads
+||ads.pinterest.com^
+
+! TikTok Ads
+||ads.tiktok.com^
