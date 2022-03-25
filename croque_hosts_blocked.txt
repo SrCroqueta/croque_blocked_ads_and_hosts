@@ -1425,3 +1425,8 @@
 127.0.0.1 www.googletagservices.com
 127.0.0.1 www.omaze.com
 127.0.0.1 74.114.154.22
+127.0.0.1 ads.tiktok.com
+127.0.0.1 d.reddit.com
+127.0.0.1 ads.pinterest.com
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 analyticsengine.s3.amazonaws.com
