@@ -1,0 +1,14 @@
+! Title: Blocked Ads.
+! Description: This is a custom filter for blocking Ads.
+! GitHub Profile: https://github.com/SrCroqueta/
+! Twitter: https://twitter.com/SrCroqueta_
+! Made by: @SrCroqueta
+
+! Reddit Ads
+||d.reddit.com^
+
+! Amazon Analytics
+||analyticsengine.s3.amazonaws.com^
+
+! Sentry
+||browser.sentry-cdn.com^
